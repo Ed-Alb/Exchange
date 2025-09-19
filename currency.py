@@ -25,4 +25,4 @@ if __name__ == "__main__":
         sys.exit()
 
     conv = c.convert(1, curr1, curr2, date=date(2025, int(mm), int(dd)))
-    print(f'The capital of your destionation was founded in: {f(conv)}')
+    print(f'The capital of your destination was founded in: {f(conv)}')
